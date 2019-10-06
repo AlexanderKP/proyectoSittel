@@ -1273,3 +1273,1019 @@ INFO - 2019-10-06 07:49:53 --> Model Class Initialized
 DEBUG - 2019-10-06 07:49:53 --> File loaded: D:\laragon\www\sittel\application\modules/Login/views/index_view.php
 INFO - 2019-10-06 07:49:53 --> Final output sent to browser
 DEBUG - 2019-10-06 07:49:53 --> Total execution time: 0.0953
+INFO - 2019-10-06 07:53:33 --> Config Class Initialized
+INFO - 2019-10-06 07:53:33 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:53:33 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:53:33 --> URI Class Initialized
+INFO - 2019-10-06 07:53:33 --> Router Class Initialized
+INFO - 2019-10-06 07:53:33 --> Output Class Initialized
+INFO - 2019-10-06 07:53:33 --> Security Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:53:33 --> Input Class Initialized
+INFO - 2019-10-06 07:53:33 --> Language Class Initialized
+INFO - 2019-10-06 07:53:33 --> Language Class Initialized
+INFO - 2019-10-06 07:53:33 --> Config Class Initialized
+INFO - 2019-10-06 07:53:33 --> Loader Class Initialized
+INFO - 2019-10-06 07:53:33 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:53:33 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:53:33 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:53:33 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:53:33 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:53:33 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:53:33 --> Email Class Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> Principal MX_Controller Initialized
+INFO - 2019-10-06 07:53:33 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:53:33 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:53:33 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Config Class Initialized
+INFO - 2019-10-06 07:53:33 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:53:33 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:53:33 --> URI Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> No URI present. Default controller set.
+INFO - 2019-10-06 07:53:33 --> Router Class Initialized
+INFO - 2019-10-06 07:53:33 --> Output Class Initialized
+INFO - 2019-10-06 07:53:33 --> Security Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:53:33 --> Input Class Initialized
+INFO - 2019-10-06 07:53:33 --> Language Class Initialized
+INFO - 2019-10-06 07:53:33 --> Language Class Initialized
+INFO - 2019-10-06 07:53:33 --> Config Class Initialized
+INFO - 2019-10-06 07:53:33 --> Loader Class Initialized
+INFO - 2019-10-06 07:53:33 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:53:33 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:53:33 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:53:33 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:53:33 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:53:33 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:53:33 --> Email Class Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+INFO - 2019-10-06 07:53:33 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> Login MX_Controller Initialized
+INFO - 2019-10-06 07:53:33 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:53:33 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:53:33 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:53:33 --> Model Class Initialized
+DEBUG - 2019-10-06 07:53:33 --> File loaded: D:\laragon\www\sittel\application\modules/Login/views/index_view.php
+INFO - 2019-10-06 07:53:33 --> Final output sent to browser
+DEBUG - 2019-10-06 07:53:33 --> Total execution time: 0.0916
+INFO - 2019-10-06 07:53:39 --> Config Class Initialized
+INFO - 2019-10-06 07:53:39 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:53:39 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:53:39 --> URI Class Initialized
+INFO - 2019-10-06 07:53:39 --> Router Class Initialized
+INFO - 2019-10-06 07:53:39 --> Output Class Initialized
+INFO - 2019-10-06 07:53:39 --> Security Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:53:39 --> Input Class Initialized
+INFO - 2019-10-06 07:53:39 --> Language Class Initialized
+INFO - 2019-10-06 07:53:39 --> Language Class Initialized
+INFO - 2019-10-06 07:53:39 --> Config Class Initialized
+INFO - 2019-10-06 07:53:39 --> Loader Class Initialized
+INFO - 2019-10-06 07:53:39 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:53:39 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:53:39 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:53:39 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:53:39 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:53:39 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:53:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:53:39 --> Email Class Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> Login MX_Controller Initialized
+INFO - 2019-10-06 07:53:39 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:53:39 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:53:39 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Config Class Initialized
+INFO - 2019-10-06 07:53:39 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:53:39 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:53:39 --> URI Class Initialized
+INFO - 2019-10-06 07:53:39 --> Router Class Initialized
+INFO - 2019-10-06 07:53:39 --> Output Class Initialized
+INFO - 2019-10-06 07:53:39 --> Security Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:53:39 --> Input Class Initialized
+INFO - 2019-10-06 07:53:39 --> Language Class Initialized
+INFO - 2019-10-06 07:53:39 --> Language Class Initialized
+INFO - 2019-10-06 07:53:39 --> Config Class Initialized
+INFO - 2019-10-06 07:53:39 --> Loader Class Initialized
+INFO - 2019-10-06 07:53:39 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:53:39 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:53:39 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:53:39 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:53:39 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:53:39 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:53:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:53:39 --> Email Class Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> Principal MX_Controller Initialized
+INFO - 2019-10-06 07:53:39 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:53:39 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:53:39 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+INFO - 2019-10-06 07:53:39 --> Model Class Initialized
+DEBUG - 2019-10-06 07:53:39 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/header.php
+DEBUG - 2019-10-06 07:53:39 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/index_view.php
+DEBUG - 2019-10-06 07:53:39 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/scripts.php
+DEBUG - 2019-10-06 07:53:39 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:53:39 --> Final output sent to browser
+DEBUG - 2019-10-06 07:53:39 --> Total execution time: 0.1004
+INFO - 2019-10-06 07:53:41 --> Config Class Initialized
+INFO - 2019-10-06 07:53:41 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:53:41 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:53:41 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:53:41 --> URI Class Initialized
+INFO - 2019-10-06 07:53:41 --> Router Class Initialized
+INFO - 2019-10-06 07:53:41 --> Output Class Initialized
+INFO - 2019-10-06 07:53:41 --> Security Class Initialized
+DEBUG - 2019-10-06 07:53:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:53:41 --> Input Class Initialized
+INFO - 2019-10-06 07:53:41 --> Language Class Initialized
+INFO - 2019-10-06 07:53:41 --> Language Class Initialized
+INFO - 2019-10-06 07:53:41 --> Config Class Initialized
+INFO - 2019-10-06 07:53:41 --> Loader Class Initialized
+INFO - 2019-10-06 07:53:41 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:53:41 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:53:41 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:53:41 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:53:41 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:53:41 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:53:41 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:53:41 --> Email Class Initialized
+INFO - 2019-10-06 07:53:41 --> Model Class Initialized
+INFO - 2019-10-06 07:53:41 --> Model Class Initialized
+INFO - 2019-10-06 07:53:41 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:53:41 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:53:41 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:53:41 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:53:41 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:53:41 --> Model Class Initialized
+INFO - 2019-10-06 07:53:41 --> Model Class Initialized
+INFO - 2019-10-06 07:53:41 --> Model Class Initialized
+INFO - 2019-10-06 07:53:41 --> Model Class Initialized
+DEBUG - 2019-10-06 07:53:41 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:53:41 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/select_secretaria_view.php
+DEBUG - 2019-10-06 07:53:41 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/registrar_view.php
+DEBUG - 2019-10-06 07:53:41 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsReg.php
+DEBUG - 2019-10-06 07:53:41 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:53:41 --> Final output sent to browser
+DEBUG - 2019-10-06 07:53:41 --> Total execution time: 0.1041
+INFO - 2019-10-06 07:53:48 --> Config Class Initialized
+INFO - 2019-10-06 07:53:48 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:53:48 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:53:48 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:53:48 --> URI Class Initialized
+INFO - 2019-10-06 07:53:48 --> Router Class Initialized
+INFO - 2019-10-06 07:53:48 --> Output Class Initialized
+INFO - 2019-10-06 07:53:48 --> Security Class Initialized
+DEBUG - 2019-10-06 07:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:53:48 --> Input Class Initialized
+INFO - 2019-10-06 07:53:48 --> Language Class Initialized
+INFO - 2019-10-06 07:53:48 --> Language Class Initialized
+INFO - 2019-10-06 07:53:48 --> Config Class Initialized
+INFO - 2019-10-06 07:53:48 --> Loader Class Initialized
+INFO - 2019-10-06 07:53:48 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:53:48 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:53:48 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:53:48 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:53:48 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:53:48 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:53:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:53:48 --> Email Class Initialized
+INFO - 2019-10-06 07:53:48 --> Model Class Initialized
+INFO - 2019-10-06 07:53:48 --> Model Class Initialized
+INFO - 2019-10-06 07:53:48 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:53:48 --> Mdocumentos MX_Controller Initialized
+INFO - 2019-10-06 07:53:49 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:53:49 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:53:49 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:53:49 --> Model Class Initialized
+INFO - 2019-10-06 07:53:49 --> Final output sent to browser
+DEBUG - 2019-10-06 07:53:49 --> Total execution time: 0.0843
+INFO - 2019-10-06 07:54:06 --> Config Class Initialized
+INFO - 2019-10-06 07:54:06 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:54:06 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:54:06 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:54:06 --> URI Class Initialized
+INFO - 2019-10-06 07:54:06 --> Router Class Initialized
+INFO - 2019-10-06 07:54:06 --> Output Class Initialized
+INFO - 2019-10-06 07:54:06 --> Security Class Initialized
+DEBUG - 2019-10-06 07:54:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:54:06 --> Input Class Initialized
+INFO - 2019-10-06 07:54:06 --> Language Class Initialized
+INFO - 2019-10-06 07:54:06 --> Language Class Initialized
+INFO - 2019-10-06 07:54:06 --> Config Class Initialized
+INFO - 2019-10-06 07:54:06 --> Loader Class Initialized
+INFO - 2019-10-06 07:54:06 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:54:06 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:54:06 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:54:06 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:54:06 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:54:06 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:54:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:54:06 --> Email Class Initialized
+INFO - 2019-10-06 07:54:06 --> Model Class Initialized
+INFO - 2019-10-06 07:54:06 --> Model Class Initialized
+INFO - 2019-10-06 07:54:06 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:54:06 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:54:06 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:54:06 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:54:06 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:54:06 --> Model Class Initialized
+INFO - 2019-10-06 07:54:06 --> Model Class Initialized
+INFO - 2019-10-06 07:54:06 --> Model Class Initialized
+INFO - 2019-10-06 07:54:06 --> Model Class Initialized
+DEBUG - 2019-10-06 07:54:06 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:54:06 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:54:06 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:54:06 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:54:06 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:54:06 --> Final output sent to browser
+DEBUG - 2019-10-06 07:54:06 --> Total execution time: 0.1374
+INFO - 2019-10-06 07:54:11 --> Config Class Initialized
+INFO - 2019-10-06 07:54:11 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:54:11 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:54:11 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:54:11 --> URI Class Initialized
+INFO - 2019-10-06 07:54:11 --> Router Class Initialized
+INFO - 2019-10-06 07:54:11 --> Output Class Initialized
+INFO - 2019-10-06 07:54:11 --> Security Class Initialized
+DEBUG - 2019-10-06 07:54:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:54:11 --> Input Class Initialized
+INFO - 2019-10-06 07:54:11 --> Language Class Initialized
+INFO - 2019-10-06 07:54:11 --> Language Class Initialized
+INFO - 2019-10-06 07:54:11 --> Config Class Initialized
+INFO - 2019-10-06 07:54:11 --> Loader Class Initialized
+INFO - 2019-10-06 07:54:11 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:54:11 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:54:11 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:54:11 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:54:11 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:54:11 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:54:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:54:11 --> Email Class Initialized
+INFO - 2019-10-06 07:54:11 --> Model Class Initialized
+INFO - 2019-10-06 07:54:11 --> Model Class Initialized
+INFO - 2019-10-06 07:54:11 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:54:11 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:54:11 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:54:11 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:54:11 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:54:11 --> Model Class Initialized
+INFO - 2019-10-06 07:54:11 --> Model Class Initialized
+INFO - 2019-10-06 07:54:11 --> Model Class Initialized
+INFO - 2019-10-06 07:54:11 --> Model Class Initialized
+DEBUG - 2019-10-06 07:54:11 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:54:11 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:54:11 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:54:11 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:54:11 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:54:11 --> Final output sent to browser
+DEBUG - 2019-10-06 07:54:11 --> Total execution time: 0.1132
+INFO - 2019-10-06 07:54:27 --> Config Class Initialized
+INFO - 2019-10-06 07:54:27 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:54:27 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:54:27 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:54:27 --> URI Class Initialized
+INFO - 2019-10-06 07:54:27 --> Router Class Initialized
+INFO - 2019-10-06 07:54:27 --> Output Class Initialized
+INFO - 2019-10-06 07:54:27 --> Security Class Initialized
+DEBUG - 2019-10-06 07:54:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:54:27 --> Input Class Initialized
+INFO - 2019-10-06 07:54:27 --> Language Class Initialized
+INFO - 2019-10-06 07:54:27 --> Language Class Initialized
+INFO - 2019-10-06 07:54:27 --> Config Class Initialized
+INFO - 2019-10-06 07:54:27 --> Loader Class Initialized
+INFO - 2019-10-06 07:54:27 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:54:27 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:54:27 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:54:27 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:54:27 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:54:27 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:54:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:54:27 --> Email Class Initialized
+INFO - 2019-10-06 07:54:27 --> Model Class Initialized
+INFO - 2019-10-06 07:54:27 --> Model Class Initialized
+INFO - 2019-10-06 07:54:27 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:54:27 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:54:27 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:54:27 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:54:27 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:54:27 --> Model Class Initialized
+INFO - 2019-10-06 07:54:27 --> Model Class Initialized
+INFO - 2019-10-06 07:54:27 --> Model Class Initialized
+INFO - 2019-10-06 07:54:27 --> Model Class Initialized
+ERROR - 2019-10-06 07:54:27 --> Query error: Incorrect integer value: 'undefined' for column 'ticket_destino' at row 1 - Invalid query: INSERT INTO `tbl_ticket` (`ticket_numero`, `ticket_origen`, `ticket_destino`, `ticket_asunto`, `ticket_tema`, `ticket_subtema`) VALUES ('0000012', '20', 'undefined', 'Prueba 2019', '1', '1')
+INFO - 2019-10-06 07:54:28 --> Language file loaded: language/english/db_lang.php
+INFO - 2019-10-06 07:54:33 --> Config Class Initialized
+INFO - 2019-10-06 07:54:33 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:54:33 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:54:33 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:54:33 --> URI Class Initialized
+INFO - 2019-10-06 07:54:33 --> Router Class Initialized
+INFO - 2019-10-06 07:54:33 --> Output Class Initialized
+INFO - 2019-10-06 07:54:33 --> Security Class Initialized
+DEBUG - 2019-10-06 07:54:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:54:33 --> Input Class Initialized
+INFO - 2019-10-06 07:54:33 --> Language Class Initialized
+INFO - 2019-10-06 07:54:33 --> Language Class Initialized
+INFO - 2019-10-06 07:54:33 --> Config Class Initialized
+INFO - 2019-10-06 07:54:33 --> Loader Class Initialized
+INFO - 2019-10-06 07:54:33 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:54:33 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:54:33 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:54:33 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:54:33 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:54:33 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:54:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:54:33 --> Email Class Initialized
+INFO - 2019-10-06 07:54:33 --> Model Class Initialized
+INFO - 2019-10-06 07:54:33 --> Model Class Initialized
+INFO - 2019-10-06 07:54:33 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:54:33 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:54:33 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:54:33 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:54:33 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:54:33 --> Model Class Initialized
+INFO - 2019-10-06 07:54:33 --> Model Class Initialized
+INFO - 2019-10-06 07:54:33 --> Model Class Initialized
+INFO - 2019-10-06 07:54:33 --> Model Class Initialized
+DEBUG - 2019-10-06 07:54:33 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:54:33 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:54:33 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:54:33 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:54:33 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:54:33 --> Final output sent to browser
+DEBUG - 2019-10-06 07:54:33 --> Total execution time: 0.1440
+INFO - 2019-10-06 07:54:51 --> Config Class Initialized
+INFO - 2019-10-06 07:54:51 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:54:51 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:54:51 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:54:51 --> URI Class Initialized
+INFO - 2019-10-06 07:54:51 --> Router Class Initialized
+INFO - 2019-10-06 07:54:51 --> Output Class Initialized
+INFO - 2019-10-06 07:54:51 --> Security Class Initialized
+DEBUG - 2019-10-06 07:54:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:54:51 --> Input Class Initialized
+INFO - 2019-10-06 07:54:51 --> Language Class Initialized
+INFO - 2019-10-06 07:54:51 --> Language Class Initialized
+INFO - 2019-10-06 07:54:51 --> Config Class Initialized
+INFO - 2019-10-06 07:54:51 --> Loader Class Initialized
+INFO - 2019-10-06 07:54:51 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:54:51 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:54:51 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:54:51 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:54:51 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:54:51 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:54:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:54:51 --> Email Class Initialized
+INFO - 2019-10-06 07:54:51 --> Model Class Initialized
+INFO - 2019-10-06 07:54:51 --> Model Class Initialized
+INFO - 2019-10-06 07:54:51 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:54:51 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:54:51 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:54:51 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:54:51 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:54:51 --> Model Class Initialized
+INFO - 2019-10-06 07:54:51 --> Model Class Initialized
+INFO - 2019-10-06 07:54:51 --> Model Class Initialized
+INFO - 2019-10-06 07:54:51 --> Model Class Initialized
+DEBUG - 2019-10-06 07:54:51 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:54:51 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/select_secretaria_view.php
+DEBUG - 2019-10-06 07:54:51 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/registrar_view.php
+DEBUG - 2019-10-06 07:54:51 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsReg.php
+DEBUG - 2019-10-06 07:54:51 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:54:51 --> Final output sent to browser
+DEBUG - 2019-10-06 07:54:51 --> Total execution time: 0.1303
+INFO - 2019-10-06 07:55:22 --> Config Class Initialized
+INFO - 2019-10-06 07:55:22 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:22 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:22 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:22 --> URI Class Initialized
+INFO - 2019-10-06 07:55:22 --> Router Class Initialized
+INFO - 2019-10-06 07:55:22 --> Output Class Initialized
+INFO - 2019-10-06 07:55:22 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:22 --> Input Class Initialized
+INFO - 2019-10-06 07:55:22 --> Language Class Initialized
+INFO - 2019-10-06 07:55:22 --> Language Class Initialized
+INFO - 2019-10-06 07:55:22 --> Config Class Initialized
+INFO - 2019-10-06 07:55:22 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:22 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:22 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:22 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:22 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:22 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:22 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:22 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:22 --> Email Class Initialized
+INFO - 2019-10-06 07:55:22 --> Model Class Initialized
+INFO - 2019-10-06 07:55:22 --> Model Class Initialized
+INFO - 2019-10-06 07:55:22 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:22 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:55:22 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:22 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:22 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:22 --> Model Class Initialized
+INFO - 2019-10-06 07:55:22 --> Model Class Initialized
+INFO - 2019-10-06 07:55:22 --> Model Class Initialized
+INFO - 2019-10-06 07:55:22 --> Model Class Initialized
+DEBUG - 2019-10-06 07:55:22 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:55:22 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:55:22 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:55:22 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:55:22 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:55:22 --> Final output sent to browser
+DEBUG - 2019-10-06 07:55:22 --> Total execution time: 0.1200
+INFO - 2019-10-06 07:55:26 --> Config Class Initialized
+INFO - 2019-10-06 07:55:26 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:26 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:26 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:26 --> URI Class Initialized
+INFO - 2019-10-06 07:55:26 --> Router Class Initialized
+INFO - 2019-10-06 07:55:26 --> Output Class Initialized
+INFO - 2019-10-06 07:55:26 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:26 --> Input Class Initialized
+INFO - 2019-10-06 07:55:26 --> Language Class Initialized
+INFO - 2019-10-06 07:55:26 --> Language Class Initialized
+INFO - 2019-10-06 07:55:26 --> Config Class Initialized
+INFO - 2019-10-06 07:55:26 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:26 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:26 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:26 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:26 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:26 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:26 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:26 --> Email Class Initialized
+INFO - 2019-10-06 07:55:26 --> Model Class Initialized
+INFO - 2019-10-06 07:55:26 --> Model Class Initialized
+INFO - 2019-10-06 07:55:26 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:26 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:55:26 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:26 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:26 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:26 --> Model Class Initialized
+INFO - 2019-10-06 07:55:26 --> Model Class Initialized
+INFO - 2019-10-06 07:55:26 --> Model Class Initialized
+INFO - 2019-10-06 07:55:26 --> Model Class Initialized
+DEBUG - 2019-10-06 07:55:26 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:55:26 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:55:26 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:55:26 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:55:26 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:55:26 --> Final output sent to browser
+DEBUG - 2019-10-06 07:55:26 --> Total execution time: 0.1295
+INFO - 2019-10-06 07:55:27 --> Config Class Initialized
+INFO - 2019-10-06 07:55:27 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:27 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:27 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:27 --> URI Class Initialized
+INFO - 2019-10-06 07:55:27 --> Router Class Initialized
+INFO - 2019-10-06 07:55:27 --> Output Class Initialized
+INFO - 2019-10-06 07:55:27 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:27 --> Input Class Initialized
+INFO - 2019-10-06 07:55:27 --> Language Class Initialized
+INFO - 2019-10-06 07:55:27 --> Language Class Initialized
+INFO - 2019-10-06 07:55:27 --> Config Class Initialized
+INFO - 2019-10-06 07:55:27 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:27 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:27 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:27 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:27 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:27 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:27 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:27 --> Email Class Initialized
+INFO - 2019-10-06 07:55:27 --> Model Class Initialized
+INFO - 2019-10-06 07:55:27 --> Model Class Initialized
+INFO - 2019-10-06 07:55:27 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:27 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:55:27 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:27 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:27 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:27 --> Model Class Initialized
+INFO - 2019-10-06 07:55:27 --> Model Class Initialized
+INFO - 2019-10-06 07:55:27 --> Model Class Initialized
+INFO - 2019-10-06 07:55:28 --> Model Class Initialized
+DEBUG - 2019-10-06 07:55:28 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:55:28 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/select_secretaria_view.php
+DEBUG - 2019-10-06 07:55:28 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/registrar_view.php
+DEBUG - 2019-10-06 07:55:28 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsReg.php
+DEBUG - 2019-10-06 07:55:28 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:55:28 --> Final output sent to browser
+DEBUG - 2019-10-06 07:55:28 --> Total execution time: 0.1342
+INFO - 2019-10-06 07:55:55 --> Config Class Initialized
+INFO - 2019-10-06 07:55:55 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:55 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:55 --> URI Class Initialized
+INFO - 2019-10-06 07:55:55 --> Router Class Initialized
+INFO - 2019-10-06 07:55:55 --> Output Class Initialized
+INFO - 2019-10-06 07:55:55 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:55 --> Input Class Initialized
+INFO - 2019-10-06 07:55:55 --> Language Class Initialized
+INFO - 2019-10-06 07:55:55 --> Language Class Initialized
+INFO - 2019-10-06 07:55:55 --> Config Class Initialized
+INFO - 2019-10-06 07:55:55 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:55 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:55 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:55 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:55 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:55 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:55 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:55 --> Email Class Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> Principal MX_Controller Initialized
+INFO - 2019-10-06 07:55:55 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:55 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:55 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Config Class Initialized
+INFO - 2019-10-06 07:55:55 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:55 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:55 --> URI Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> No URI present. Default controller set.
+INFO - 2019-10-06 07:55:55 --> Router Class Initialized
+INFO - 2019-10-06 07:55:55 --> Output Class Initialized
+INFO - 2019-10-06 07:55:55 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:55 --> Input Class Initialized
+INFO - 2019-10-06 07:55:55 --> Language Class Initialized
+INFO - 2019-10-06 07:55:55 --> Language Class Initialized
+INFO - 2019-10-06 07:55:55 --> Config Class Initialized
+INFO - 2019-10-06 07:55:55 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:55 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:55 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:55 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:55 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:55 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:55 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:55 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:55 --> Email Class Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+INFO - 2019-10-06 07:55:55 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> Login MX_Controller Initialized
+INFO - 2019-10-06 07:55:55 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:55 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:55 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:55 --> Model Class Initialized
+DEBUG - 2019-10-06 07:55:55 --> File loaded: D:\laragon\www\sittel\application\modules/Login/views/index_view.php
+INFO - 2019-10-06 07:55:55 --> Final output sent to browser
+DEBUG - 2019-10-06 07:55:55 --> Total execution time: 0.1079
+INFO - 2019-10-06 07:55:59 --> Config Class Initialized
+INFO - 2019-10-06 07:55:59 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:59 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:59 --> URI Class Initialized
+INFO - 2019-10-06 07:55:59 --> Router Class Initialized
+INFO - 2019-10-06 07:55:59 --> Output Class Initialized
+INFO - 2019-10-06 07:55:59 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:59 --> Input Class Initialized
+INFO - 2019-10-06 07:55:59 --> Language Class Initialized
+INFO - 2019-10-06 07:55:59 --> Language Class Initialized
+INFO - 2019-10-06 07:55:59 --> Config Class Initialized
+INFO - 2019-10-06 07:55:59 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:59 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:59 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:59 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:59 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:59 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:59 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:59 --> Email Class Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> Login MX_Controller Initialized
+INFO - 2019-10-06 07:55:59 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:59 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:59 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Config Class Initialized
+INFO - 2019-10-06 07:55:59 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:55:59 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:55:59 --> URI Class Initialized
+INFO - 2019-10-06 07:55:59 --> Router Class Initialized
+INFO - 2019-10-06 07:55:59 --> Output Class Initialized
+INFO - 2019-10-06 07:55:59 --> Security Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:55:59 --> Input Class Initialized
+INFO - 2019-10-06 07:55:59 --> Language Class Initialized
+INFO - 2019-10-06 07:55:59 --> Language Class Initialized
+INFO - 2019-10-06 07:55:59 --> Config Class Initialized
+INFO - 2019-10-06 07:55:59 --> Loader Class Initialized
+INFO - 2019-10-06 07:55:59 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:55:59 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:55:59 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:55:59 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:55:59 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:55:59 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:55:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:55:59 --> Email Class Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> Principal MX_Controller Initialized
+INFO - 2019-10-06 07:55:59 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:55:59 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:55:59 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+INFO - 2019-10-06 07:55:59 --> Model Class Initialized
+DEBUG - 2019-10-06 07:55:59 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/header.php
+DEBUG - 2019-10-06 07:55:59 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/index_view.php
+DEBUG - 2019-10-06 07:55:59 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/scripts.php
+DEBUG - 2019-10-06 07:55:59 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:55:59 --> Final output sent to browser
+DEBUG - 2019-10-06 07:55:59 --> Total execution time: 0.1099
+INFO - 2019-10-06 07:56:01 --> Config Class Initialized
+INFO - 2019-10-06 07:56:01 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:56:01 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:56:01 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:56:01 --> URI Class Initialized
+INFO - 2019-10-06 07:56:01 --> Router Class Initialized
+INFO - 2019-10-06 07:56:01 --> Output Class Initialized
+INFO - 2019-10-06 07:56:01 --> Security Class Initialized
+DEBUG - 2019-10-06 07:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:56:01 --> Input Class Initialized
+INFO - 2019-10-06 07:56:01 --> Language Class Initialized
+INFO - 2019-10-06 07:56:01 --> Language Class Initialized
+INFO - 2019-10-06 07:56:01 --> Config Class Initialized
+INFO - 2019-10-06 07:56:01 --> Loader Class Initialized
+INFO - 2019-10-06 07:56:01 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:56:01 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:56:01 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:56:01 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:56:01 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:56:01 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:56:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:56:01 --> Email Class Initialized
+INFO - 2019-10-06 07:56:01 --> Model Class Initialized
+INFO - 2019-10-06 07:56:01 --> Model Class Initialized
+INFO - 2019-10-06 07:56:01 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:56:01 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:56:01 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:56:01 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:56:01 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:56:02 --> Model Class Initialized
+INFO - 2019-10-06 07:56:02 --> Model Class Initialized
+INFO - 2019-10-06 07:56:02 --> Model Class Initialized
+INFO - 2019-10-06 07:56:02 --> Model Class Initialized
+DEBUG - 2019-10-06 07:56:02 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:56:02 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/select_afiliado_view.php
+DEBUG - 2019-10-06 07:56:02 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/registrar_view.php
+DEBUG - 2019-10-06 07:56:02 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsReg.php
+DEBUG - 2019-10-06 07:56:02 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:56:02 --> Final output sent to browser
+DEBUG - 2019-10-06 07:56:02 --> Total execution time: 0.1288
+INFO - 2019-10-06 07:56:19 --> Config Class Initialized
+INFO - 2019-10-06 07:56:19 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:56:19 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:56:19 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:56:19 --> URI Class Initialized
+INFO - 2019-10-06 07:56:19 --> Router Class Initialized
+INFO - 2019-10-06 07:56:19 --> Output Class Initialized
+INFO - 2019-10-06 07:56:19 --> Security Class Initialized
+DEBUG - 2019-10-06 07:56:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:56:19 --> Input Class Initialized
+INFO - 2019-10-06 07:56:19 --> Language Class Initialized
+INFO - 2019-10-06 07:56:19 --> Language Class Initialized
+INFO - 2019-10-06 07:56:19 --> Config Class Initialized
+INFO - 2019-10-06 07:56:19 --> Loader Class Initialized
+INFO - 2019-10-06 07:56:19 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:56:19 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:56:19 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:56:19 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:56:19 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:56:19 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:56:19 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:56:19 --> Email Class Initialized
+INFO - 2019-10-06 07:56:19 --> Model Class Initialized
+INFO - 2019-10-06 07:56:19 --> Model Class Initialized
+INFO - 2019-10-06 07:56:19 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:56:19 --> Mdocumentos MX_Controller Initialized
+INFO - 2019-10-06 07:56:19 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:56:19 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:56:19 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:56:19 --> Model Class Initialized
+INFO - 2019-10-06 07:56:19 --> Final output sent to browser
+DEBUG - 2019-10-06 07:56:19 --> Total execution time: 0.1021
+INFO - 2019-10-06 07:56:32 --> Config Class Initialized
+INFO - 2019-10-06 07:56:32 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:56:32 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:56:32 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:56:32 --> URI Class Initialized
+INFO - 2019-10-06 07:56:32 --> Router Class Initialized
+INFO - 2019-10-06 07:56:32 --> Output Class Initialized
+INFO - 2019-10-06 07:56:32 --> Security Class Initialized
+DEBUG - 2019-10-06 07:56:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:56:32 --> Input Class Initialized
+INFO - 2019-10-06 07:56:32 --> Language Class Initialized
+INFO - 2019-10-06 07:56:32 --> Language Class Initialized
+INFO - 2019-10-06 07:56:32 --> Config Class Initialized
+INFO - 2019-10-06 07:56:32 --> Loader Class Initialized
+INFO - 2019-10-06 07:56:32 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:56:32 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:56:32 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:56:32 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:56:32 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:56:32 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:56:32 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:56:32 --> Email Class Initialized
+INFO - 2019-10-06 07:56:32 --> Model Class Initialized
+INFO - 2019-10-06 07:56:32 --> Model Class Initialized
+INFO - 2019-10-06 07:56:32 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:56:32 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:56:32 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:56:32 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:56:32 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:56:32 --> Model Class Initialized
+INFO - 2019-10-06 07:56:32 --> Model Class Initialized
+INFO - 2019-10-06 07:56:32 --> Model Class Initialized
+INFO - 2019-10-06 07:56:32 --> Model Class Initialized
+INFO - 2019-10-06 07:56:33 --> Final output sent to browser
+DEBUG - 2019-10-06 07:56:33 --> Total execution time: 0.7917
+INFO - 2019-10-06 07:58:14 --> Config Class Initialized
+INFO - 2019-10-06 07:58:14 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:14 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:14 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:14 --> URI Class Initialized
+INFO - 2019-10-06 07:58:14 --> Router Class Initialized
+INFO - 2019-10-06 07:58:14 --> Output Class Initialized
+INFO - 2019-10-06 07:58:14 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:14 --> Input Class Initialized
+INFO - 2019-10-06 07:58:14 --> Language Class Initialized
+INFO - 2019-10-06 07:58:14 --> Language Class Initialized
+INFO - 2019-10-06 07:58:14 --> Config Class Initialized
+INFO - 2019-10-06 07:58:14 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:14 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:14 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:14 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:14 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:14 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:14 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:14 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:14 --> Email Class Initialized
+INFO - 2019-10-06 07:58:14 --> Model Class Initialized
+INFO - 2019-10-06 07:58:14 --> Model Class Initialized
+INFO - 2019-10-06 07:58:14 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:14 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:58:14 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:14 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:14 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:14 --> Model Class Initialized
+INFO - 2019-10-06 07:58:14 --> Model Class Initialized
+INFO - 2019-10-06 07:58:14 --> Model Class Initialized
+INFO - 2019-10-06 07:58:14 --> Model Class Initialized
+DEBUG - 2019-10-06 07:58:14 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:58:14 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:58:14 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:58:14 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:58:14 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:58:14 --> Final output sent to browser
+DEBUG - 2019-10-06 07:58:14 --> Total execution time: 0.1478
+INFO - 2019-10-06 07:58:26 --> Config Class Initialized
+INFO - 2019-10-06 07:58:26 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:26 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:26 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:26 --> URI Class Initialized
+INFO - 2019-10-06 07:58:26 --> Router Class Initialized
+INFO - 2019-10-06 07:58:26 --> Output Class Initialized
+INFO - 2019-10-06 07:58:26 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:26 --> Input Class Initialized
+INFO - 2019-10-06 07:58:26 --> Language Class Initialized
+INFO - 2019-10-06 07:58:26 --> Language Class Initialized
+INFO - 2019-10-06 07:58:26 --> Config Class Initialized
+INFO - 2019-10-06 07:58:26 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:26 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:26 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:26 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:26 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:26 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:26 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:26 --> Email Class Initialized
+INFO - 2019-10-06 07:58:26 --> Model Class Initialized
+INFO - 2019-10-06 07:58:26 --> Model Class Initialized
+INFO - 2019-10-06 07:58:26 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:26 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:58:26 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:26 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:26 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:26 --> Model Class Initialized
+INFO - 2019-10-06 07:58:26 --> Model Class Initialized
+INFO - 2019-10-06 07:58:26 --> Model Class Initialized
+INFO - 2019-10-06 07:58:26 --> Model Class Initialized
+INFO - 2019-10-06 07:58:26 --> Final output sent to browser
+DEBUG - 2019-10-06 07:58:26 --> Total execution time: 0.1279
+INFO - 2019-10-06 07:58:29 --> Config Class Initialized
+INFO - 2019-10-06 07:58:29 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:29 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:29 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:29 --> URI Class Initialized
+INFO - 2019-10-06 07:58:29 --> Router Class Initialized
+INFO - 2019-10-06 07:58:29 --> Output Class Initialized
+INFO - 2019-10-06 07:58:29 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:29 --> Input Class Initialized
+INFO - 2019-10-06 07:58:29 --> Language Class Initialized
+INFO - 2019-10-06 07:58:29 --> Language Class Initialized
+INFO - 2019-10-06 07:58:29 --> Config Class Initialized
+INFO - 2019-10-06 07:58:29 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:29 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:29 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:29 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:29 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:29 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:29 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:29 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:29 --> Email Class Initialized
+INFO - 2019-10-06 07:58:29 --> Model Class Initialized
+INFO - 2019-10-06 07:58:29 --> Model Class Initialized
+INFO - 2019-10-06 07:58:29 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:29 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:58:29 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:29 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:29 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:29 --> Model Class Initialized
+INFO - 2019-10-06 07:58:29 --> Model Class Initialized
+INFO - 2019-10-06 07:58:29 --> Model Class Initialized
+INFO - 2019-10-06 07:58:29 --> Model Class Initialized
+INFO - 2019-10-06 07:58:29 --> Final output sent to browser
+DEBUG - 2019-10-06 07:58:29 --> Total execution time: 0.1321
+INFO - 2019-10-06 07:58:33 --> Config Class Initialized
+INFO - 2019-10-06 07:58:33 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:33 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:33 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:33 --> URI Class Initialized
+INFO - 2019-10-06 07:58:33 --> Router Class Initialized
+INFO - 2019-10-06 07:58:33 --> Output Class Initialized
+INFO - 2019-10-06 07:58:33 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:33 --> Input Class Initialized
+INFO - 2019-10-06 07:58:33 --> Language Class Initialized
+INFO - 2019-10-06 07:58:33 --> Language Class Initialized
+INFO - 2019-10-06 07:58:33 --> Config Class Initialized
+INFO - 2019-10-06 07:58:33 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:33 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:33 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:33 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:33 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:33 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:33 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:33 --> Email Class Initialized
+INFO - 2019-10-06 07:58:33 --> Model Class Initialized
+INFO - 2019-10-06 07:58:33 --> Model Class Initialized
+INFO - 2019-10-06 07:58:33 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:33 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:58:33 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:33 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:33 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:33 --> Model Class Initialized
+INFO - 2019-10-06 07:58:33 --> Model Class Initialized
+INFO - 2019-10-06 07:58:33 --> Model Class Initialized
+INFO - 2019-10-06 07:58:33 --> Model Class Initialized
+INFO - 2019-10-06 07:58:33 --> Final output sent to browser
+DEBUG - 2019-10-06 07:58:33 --> Total execution time: 0.1206
+INFO - 2019-10-06 07:58:39 --> Config Class Initialized
+INFO - 2019-10-06 07:58:39 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:39 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:39 --> URI Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> No URI present. Default controller set.
+INFO - 2019-10-06 07:58:39 --> Router Class Initialized
+INFO - 2019-10-06 07:58:39 --> Output Class Initialized
+INFO - 2019-10-06 07:58:39 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:39 --> Input Class Initialized
+INFO - 2019-10-06 07:58:39 --> Language Class Initialized
+INFO - 2019-10-06 07:58:39 --> Language Class Initialized
+INFO - 2019-10-06 07:58:39 --> Config Class Initialized
+INFO - 2019-10-06 07:58:39 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:39 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:39 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:39 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:39 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:39 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:39 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:39 --> Email Class Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> Login MX_Controller Initialized
+INFO - 2019-10-06 07:58:39 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:39 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:39 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Config Class Initialized
+INFO - 2019-10-06 07:58:39 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:39 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:39 --> URI Class Initialized
+INFO - 2019-10-06 07:58:39 --> Router Class Initialized
+INFO - 2019-10-06 07:58:39 --> Output Class Initialized
+INFO - 2019-10-06 07:58:39 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:39 --> Input Class Initialized
+INFO - 2019-10-06 07:58:39 --> Language Class Initialized
+INFO - 2019-10-06 07:58:39 --> Language Class Initialized
+INFO - 2019-10-06 07:58:39 --> Config Class Initialized
+INFO - 2019-10-06 07:58:39 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:39 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:39 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:39 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:39 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:39 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:39 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:39 --> Email Class Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> Principal MX_Controller Initialized
+INFO - 2019-10-06 07:58:39 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:39 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:39 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+INFO - 2019-10-06 07:58:39 --> Model Class Initialized
+DEBUG - 2019-10-06 07:58:39 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/header.php
+DEBUG - 2019-10-06 07:58:39 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/index_view.php
+DEBUG - 2019-10-06 07:58:39 --> File loaded: D:\laragon\www\sittel\application\modules/Principal/views/scripts.php
+DEBUG - 2019-10-06 07:58:39 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:58:39 --> Final output sent to browser
+DEBUG - 2019-10-06 07:58:39 --> Total execution time: 0.1418
+INFO - 2019-10-06 07:58:49 --> Config Class Initialized
+INFO - 2019-10-06 07:58:49 --> Hooks Class Initialized
+DEBUG - 2019-10-06 07:58:49 --> UTF-8 Support Enabled
+INFO - 2019-10-06 07:58:49 --> Utf8 Class Initialized
+INFO - 2019-10-06 07:58:49 --> URI Class Initialized
+INFO - 2019-10-06 07:58:49 --> Router Class Initialized
+INFO - 2019-10-06 07:58:49 --> Output Class Initialized
+INFO - 2019-10-06 07:58:49 --> Security Class Initialized
+DEBUG - 2019-10-06 07:58:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-10-06 07:58:49 --> Input Class Initialized
+INFO - 2019-10-06 07:58:49 --> Language Class Initialized
+INFO - 2019-10-06 07:58:49 --> Language Class Initialized
+INFO - 2019-10-06 07:58:49 --> Config Class Initialized
+INFO - 2019-10-06 07:58:49 --> Loader Class Initialized
+INFO - 2019-10-06 07:58:49 --> Helper loaded: url_helper
+INFO - 2019-10-06 07:58:49 --> Helper loaded: form_helper
+INFO - 2019-10-06 07:58:49 --> Helper loaded: html_helper
+INFO - 2019-10-06 07:58:49 --> Helper loaded: security_helper
+INFO - 2019-10-06 07:58:49 --> Database Driver Class Initialized
+INFO - 2019-10-06 07:58:49 --> Form Validation Class Initialized
+INFO - 2019-10-06 07:58:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-10-06 07:58:49 --> Email Class Initialized
+INFO - 2019-10-06 07:58:49 --> Model Class Initialized
+INFO - 2019-10-06 07:58:49 --> Model Class Initialized
+INFO - 2019-10-06 07:58:49 --> Controller Class Initialized
+DEBUG - 2019-10-06 07:58:49 --> Ticket MX_Controller Initialized
+INFO - 2019-10-06 07:58:49 --> Helper loaded: cookie_helper
+DEBUG - 2019-10-06 07:58:49 --> File loaded: D:\laragon\www\sittel\application\controllers/../modules/Template/controllers/Template.php
+DEBUG - 2019-10-06 07:58:49 --> Template MX_Controller Initialized
+INFO - 2019-10-06 07:58:49 --> Model Class Initialized
+INFO - 2019-10-06 07:58:49 --> Model Class Initialized
+INFO - 2019-10-06 07:58:49 --> Model Class Initialized
+INFO - 2019-10-06 07:58:49 --> Model Class Initialized
+DEBUG - 2019-10-06 07:58:49 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/header.php
+DEBUG - 2019-10-06 07:58:49 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/table_list_view.php
+DEBUG - 2019-10-06 07:58:49 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/listar_view.php
+DEBUG - 2019-10-06 07:58:49 --> File loaded: D:\laragon\www\sittel\application\modules/Ticket/views/scriptsList.php
+DEBUG - 2019-10-06 07:58:49 --> File loaded: D:\laragon\www\sittel\application\modules/Template/views/sample_template_v.php
+INFO - 2019-10-06 07:58:49 --> Final output sent to browser
+DEBUG - 2019-10-06 07:58:49 --> Total execution time: 0.1453
