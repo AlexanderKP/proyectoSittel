@@ -1,0 +1,3 @@
+[30-Apr-2018 18:05:24 America/Denver] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET), expecting identifier (T_STRING) in /home8/fetrate1/public_html/gestionnueva/application/modules/Principal/controllers/Principal.php on line 32
+[30-Apr-2018 18:06:29 America/Denver] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET), expecting identifier (T_STRING) in /home8/fetrate1/public_html/gestionnueva/application/modules/Principal/controllers/Principal.php on line 32
+[30-Apr-2018 18:07:05 America/Denver] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET), expecting identifier (T_STRING) in /home8/fetrate1/public_html/gestionnueva/application/modules/Principal/controllers/Principal.php on line 33
