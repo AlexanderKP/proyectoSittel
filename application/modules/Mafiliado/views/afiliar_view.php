@@ -46,8 +46,10 @@
                         <b>Número de documento (DNI)</b>
                         <div class="form-group">
                             <div class="form-line">
-                                <input type="text" class="form-control" id="documento" name="documento" maxlength="8" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"required>
-                            </div>
+                                <input type="text" class="form-control" id="documento" name="documento" maxlength="8" onKeypress="if (event.keyCode < 45 || event.keyCode > 57) event.returnValue = false;"required>                               
+								<div type="conruc" onclick="consultardatos()" class="btn btn-info btn-sm glyphicon glyphicon-ok" tabindex="0" data-toggle="tooltip" title="" data-original-title="Consulta Reniec">                                    
+                                    </div>
+							</div>
                         </div>
                     </div>
                      <input type="hidden" name="token" id="token" value="<?=$token?>">

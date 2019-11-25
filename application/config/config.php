@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'https://sittel.test/';//'http://sittel.fetratel.com/';
+$config['base_url'] = 'http://localhost:80/sittel/';//'http://sittel.fetratel.com/';
 
 /*
 |--------------------------------------------------------------------------

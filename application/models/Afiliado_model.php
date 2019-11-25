@@ -122,4 +122,21 @@ class Afiliado_model extends CI_Model
 		$this->db->where('usuario_id',$post['codigo']);
 		$this->db->update('tbl_usuario',$usuario);
 	}
+	function getAfiliadosByMonth($value)
+	{
+		$query = $this->db->query('SELECT COUNT(persona_id) AS total_afiliado FROM tbl_afiliado WHERE YEAR(persona_fechaafiliacion) = YEAR(CURDATE()) AND  MONTH(persona_fechaafiliacion) = '.$value);
+		$rs = $query->result_array(); 
+
+		return $rs;
+	}
+	//_-----------------keny ponte--------------------------------
+	function getCountAfiliados() 
+    {
+        $query = $this->db->query("SELECT COUNT(persona_id) as total FROM tbl_afiliado WHERE persona_estado = 1");
+        $rs = $query->result_array()[0]['total'];
+
+        return $rs;
+	}
+	//---------------------keny ponte------------------------
+
 }

@@ -240,4 +240,27 @@ class Usuario_model extends CI_Model {
 
         return $rs;
     }
+    function getUsuariosAfiliadosByMonth($value)
+	{
+		$query = $this->db->query('SELECT COUNT(usuario_id) AS total_afiliado FROM tbl_usuario WHERE YEAR(usuario_fechareg) = YEAR(CURDATE()) AND  MONTH(usuario_fechareg) = '.$value);
+		$rs = $query->result_array(); 
+
+		return $rs;
+	}
+     function getUsuariosAfiliados()
+    {// p.persona_sindicato
+       //Afiliado_model.php CASE WHEN person_type = 1 THEN  'Afil' WHEN person_type = 2 THEN 'Juridica'  WHEN person_type = 0 THEN 'por definir' END
+        $this->db->select('u.usuario_id, u.usuario_entidad, u.usuario_nombre, u.usuario_email, u.usuario_clave,r.rol_detalle,u. usuario_detalles, u.usuario_token, u.usuario_estado, u.usuario_fechareg');
+        $this->db->from('tbl_usuario u');
+        $this->db->join('tbl_rol r','r.rol_id = u.usuario_rol');
+       // $this->db->where('u.usuario_rol',4);
+        $this->db->where('u.usuario_token','usado');
+        $query = $this->db->get();
+        if ($query->num_rows() > 0) {
+            return $query->result_array();
+        }else{
+            return false;
+        }        
+    }
+
 }

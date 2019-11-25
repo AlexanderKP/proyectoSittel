@@ -16,8 +16,8 @@ class MY_Controller extends MX_Controller
         $email_to = $to;
         $email_subject = "Sistema de Tickets FETRATEL";
         // Ahora se envía el e-mail usando la función mail() de PHP
-        $headers = "From: " . 'fetratel@fetratel.com' . "\r\n";
-        $headers .= "CC: jovillenad@gmail.com\r\n";
+        $headers = "From: " . 'kenyponte24@gmail.com' . "\r\n";
+        $headers .= "CC: alexponte1999@gmail.com\r\n";
         $headers .= "MIME-Version: 1.0\r\n";
         $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
         // Aquí se deberían validar los datos ingresados por el usuario
@@ -33,8 +33,8 @@ class MY_Controller extends MX_Controller
         $email_to = $data['destino'];
         $email_subject = "Sistema de Tickets FETRATEL";
         // Ahora se envía el e-mail usando la función mail() de PHP
-        $headers = "From: " . 'fetratel@fetratel.com' . "\r\n";
-        $headers .= "CC: jovillenad@gmail.com\r\n";
+        $headers = "From: " . 'kenyponte24@gmail.com' . "\r\n";
+        $headers .= "CC: alexponte1999@gmail.com\r\n";
         $headers .= "MIME-Version: 1.0\r\n";
         $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
         // Aquí se deberían validar los datos ingresados por el usuario
@@ -51,7 +51,7 @@ class MY_Controller extends MX_Controller
         // Aquí se deberían validar los datos ingresados por el usuario
         $email_message = "Su nueva clave es: ".$data['clave'];
         // Ahora se envía el e-mail usando la función mail() de PHP
-        $headers = 'From: fetratel@fetratel.com'."\r\n".
+        $headers = 'From: kenyponte24@gmail.com'."\r\n".
         'X-Mailer: PHP/' . phpversion();
         @mail($email_to, $email_subject, $email_message, $headers);
     }
@@ -64,7 +64,7 @@ class MY_Controller extends MX_Controller
         $head[0] = 'Sistema Gestion de Tickets';
         $head[1] = 'FETRATEL PERU';
         $usuario = 'Usuario: ' . $this->session->userdata('s_user')->usuario_nombre;
-        $logo = (file_exists(FCPATH . 'assets/imagenes/logo_max.png')) ? FCPATH . 'assets/imagenes/logo_max.png' : '';
+        $logo = (file_exists(FCPATH . 'assets/imagenes/logo_max.png')) ? FCPATH . 'assets/imagenes/logo_max.png' : 'no existe el logo';
         $titulo = $content['tituloExcel'];
         $filtro = $content['estado'];
         $rango_header = $content['header'];

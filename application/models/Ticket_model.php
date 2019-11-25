@@ -272,4 +272,50 @@ class Ticket_model extends CI_Model
 		return $rs;
 		
 	}
+	function getTotalTocketsExcel(){
+		$this->db->select('t.ticket_id, a.actividad_tipo, t.ticket_numero, te.tema_detalle, ts.subtema_detalle, t.ticket_asunto, a.actividad_mensaje, a.actividad_origen, a.actividad_destino, a.actividad_mensaje, t.ticket_fechareg, t.ticket_estado, a.actividad_archivo, u.usuario_entidad');
+		$this->db->from('tbl_ticket t');
+		$this->db->join('tbl_actividad a', 't.ticket_id = a.actividad_ticketid');
+		$this->db->join('tbl_tema  te', 't.ticket_tema = te.tema_id');
+		$this->db->join('tbl_subtema  ts', 't.ticket_subtema = ts.subtema_id');
+		$this->db->join('tbl_usuario u','a.actividad_destino = u.usuario_id');
+		$this->db->where('t.ticket_estado',3,2,1);
+		//$this->db->where('a.actividad_tipo',1);
+		$query = $this->db->get();
+		if ($query->num_rows < 0) {
+			return false;
+		}else{
+			return $query->result_array();
+			
+		}
+	}
+
+	function getActividadforMonth($value){
+
+		$query = $this->db->query('SELECT COUNT(actividad_id) as Actividad_total FROM tbl_actividad WHERE YEAR(actividad_fechareg) = YEAR(CURDATE()) AND  MONTH(actividad_fechareg) = '.$value);
+		$rs = $query->result_array(); 
+
+		return $rs;
+	}
+	function getCountActividad(){
+		$query = $this->db->query("SELECT COUNT(actividad_id) as total_actividad FROM tbl_actividad");
+        $rs = $query->result_array()[0]['total_actividad'];
+
+        return $rs;
+	}
+	function getActividadExcel(){
+		$this->db->select('t.ticket_numero, u.usuario_nombre, ud.usuario_nombre as usuario_destino, a.actividad_rsp, at.atipo_detalle, a.actividad_mensaje,a.actividad_fechareg, a.actividad_archivo, a.actividad_estado');
+		$this->db->from('tbl_actividad a');
+		$this->db->join('tbl_ticket t', 't.ticket_id = a.actividad_ticketid');
+		$this->db->join('tbl_usuario u', 'u.usuario_id = a.actividad_origen');
+		$this->db->join('tbl_usuario ud', 'ud.usuario_id = a.actividad_destino');
+		$this->db->join('tbl_actividadtipo at', 'at.atipo_id = a.actividad_tipo');
+		$query = $this->db->get();
+		if ($query->num_rows < 0) {
+			return false;
+		}else{
+			return $query->result_array();
+			
+		}
+	}
 }

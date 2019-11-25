@@ -73,3 +73,22 @@ function reenviar(n){
     }
   })
 }
+function consultardatos(){
+        var dni = document.getElementById("documento").value;
+       $.ajax({
+      type:'get',
+      url: 'https://cors-anywhere.herokuapp.com/http://dniruc.apisperu.com/api/v1/dni/'+dni,
+      data:{'token':'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFsZXhwb250ZTE5OTlAZ21haWwuY29tIn0.jrwTlveXDtDKXdONJSNEYt7JN7TIKr2N53rNiNdzsSU'},
+    success: function(datos) {
+    document.getElementById("nombre").value=datos['nombres'];
+    document.getElementById("apellido").value=datos['apellidoPaterno']+' '+datos['apellidoMaterno'];
+   
+    },
+    error: function() {
+    },
+    beforeSend: function(){
+		console.log()
+    } 
+    })
+
+}

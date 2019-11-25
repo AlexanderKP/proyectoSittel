@@ -16,8 +16,8 @@
                     <label  class="col-sm-1 control-label input-sm">Nombres<i class="formvalidimportant">*</i></label>
                     <div class="col-sm-5">
                         <input type="text" class="form-control input-sm" id="nombre" name="nombre" value=""  required>
-                                <input type="hidden" id="token" name="token" value="">
-                                <input type="hidden" id="claveescondida" name="claveescondida" value="">
+                        <input type="hidden" id="token" name="token" value="">
+                        <input type="hidden" id="claveescondida" name="claveescondida" value="">
                     </div>
                 </div>       
                 <div class="form-group">
@@ -100,34 +100,19 @@
                     <div class="col-sm-5">
                         <select class="form-control select input-sm"   id="hijosinicial" name="hijosinicial"  style="width: 100%;" required>
                             <option value="">Seleccione</option>
-                            <option value="0">0</option>
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
-                            <option value="6">6</option>
-                            <option value="7">7</option>
-                            <option value="8">8</option>
-                            <option value="9">9</option>
-                            <option value="10">10</option>
+                            <?php for ($i=0; $i <=10; $i++) { 
+                                echo '<option value="'.$i.'">"'.$i.'"</option>';
+                            }?>
                         </select>
                     </div>
                     <label  class="col-sm-1 control-label input-sm">Hijos Escolar<i class="formvalidimportant">*</i></label>
                     <div class="col-sm-5">
                         <select class="form-control select input-sm"   id="hijosescolar" name="hijosescolar"  style="width: 100%;" required>
                             <option value="">Seleccione</option>
-                            <option value="0">0</option>
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
-                            <option value="6">6</option>
-                            <option value="7">7</option>
-                            <option value="8">8</option>
-                            <option value="9">9</option>
-                            <option value="10">10</option>
+                            <?php 
+                                for ($i=0; $i <=10; $i++) { 
+                                    echo '<option value="'.$i.'">"'.$i.'"</option>';
+                                }?>
                         </select>
                     </div>
                 </div> 
@@ -136,35 +121,23 @@
                     <div class="col-sm-5">
                         <select class="form-control select input-sm"   id="hijossuperior" name="hijossuperior"  style="width: 100%;" required>
                             <option value="">Seleccione</option>
-                            <option value="0">0</option>
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
-                            <option value="6">6</option>
-                            <option value="7">7</option>
-                            <option value="8">8</option>
-                            <option value="9">9</option>
-                            <option value="10">10</option>
+                            <?php 
+                                for ($i=0; $i <=10; $i++) { 
+                                    echo '<option value="'.$i.'">"'.$i.'"</option>';
+                                }
+                            ?>
                         </select>
                     </div>
 
                     <label  class="col-sm-1 control-label input-sm">Hijos Exepcional<i class="formvalidimportant">*</i></label>
                     <div class="col-sm-5">
                         <select class="form-control select input-sm"   id="hijosexepcional" name="hijosexepcional"  style="width: 100%;" required>
-                                <option value="">Selccione</option>
-                            <option value="0">0</option>
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
-                            <option value="6">6</option>
-                            <option value="7">7</option>
-                            <option value="8">8</option>
-                            <option value="9">9</option>
-                            <option value="10">10</option>
+                            <option value="">Selccione</option>
+                            <?php 
+                                for ($i=0; $i <=10; $i++) { 
+                                    echo '<option value="'.$i.'">"'.$i.'"</option>';
+                                }
+                            ?>
                         </select>
                     </div>
                 </div> 
